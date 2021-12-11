@@ -29,4 +29,14 @@ Razón: Para el tipo de datos que tenemos MySQL nos permite almacenar organizada
 
 Estructura de tablas --> [Maven data across the country](kaggle.com/mysarahmadbhat/toy-sales)
 
+Relación de tablas
+# AQUI va
+## el diagrama 
+### de las tablas
+
+
+
+
+
+
 
