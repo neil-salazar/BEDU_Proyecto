@@ -24,10 +24,9 @@ Una vez recopilada la información se procede a cargar todo en la base de datos 
 ### Estructura proyecto
 
 **Base de datos elegida** --> MySQL
+
 Razón: Para el tipo de datos que tenemos MySQL nos permite almacenar organizadamente los datos y jerarquizando con claves primarias y foraneas. Ademas de tener una mejora notable en el mantenimiento de datos en relacion a la seguridad requerida de los mismos.
 
-
-
-
+Estructura de tablas --> [Maven data across the country](kaggle.com/mysarahmadbhat/toy-sales)
 
 
