@@ -27,12 +27,37 @@ Una vez recopilada la información se procede a cargar todo en la base de datos 
 
 Razón: Para el tipo de datos que tenemos MySQL nos permite almacenar organizadamente los datos y jerarquizando con claves primarias y foraneas. Ademas de tener una mejora notable en el mantenimiento de datos en relacion a la seguridad requerida de los mismos.
 
-Estructura de tablas --> [Maven data across the country](kaggle.com/mysarahmadbhat/toy-sales)
+**Estructura de tablas** --> [Maven data across the country](kaggle.com/mysarahmadbhat/toy-sales)
 
-Relación de tablas
-# AQUI va
-## el diagrama 
-### de las tablas
+**Datos estructurados en tabla**
+
+**Stores**
+
+![image](https://user-images.githubusercontent.com/95000754/145871644-3f5c8f11-6bdd-4214-b92c-94b0c7136128.png)
+
+**Products**
+
+![image](https://user-images.githubusercontent.com/95000754/145871846-c34463d0-d34a-469b-ace5-1b31cf585704.png)
+
+**Inventory**
+
+![image](https://user-images.githubusercontent.com/95000754/145871962-aac7a5d5-f40e-4b8e-9260-5f7de3be51fb.png)
+
+**Sales**
+
+![image](https://user-images.githubusercontent.com/95000754/145871990-7137f24f-83b9-4a52-b3b7-ede3dc6c7563.png)
+
+
+
+### Analisis de datos (Preguntas claves y query creada)
+
+1. [Proyecto Parte_01 Create db.txt](https://github.com/neil-salazar/BEDU_Proyecto/files/7706239/Proyect_01.Create.db.txt)
+
+2. [Proyecto_Parte 02.txt](https://github.com/neil-salazar/BEDU_Proyecto/files/7706270/Proyecto_02.txt)
+
+3. [Proyecto_Parte 03.txt](https://github.com/neil-salazar/BEDU_Proyecto/files/7706274/Proyecto_03.txt)
+
+4. [Proyecto_Parte 04.txt](https://github.com/neil-salazar/BEDU_Proyecto/files/7706275/Proyecto_04.txt)
 
 
 
